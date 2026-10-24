@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:block",
+  "pools": [ { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "kizilay:moon_altar" } ],
+    "conditions": [ { "condition": "minecraft:survives_explosion" } ] } ]
+}

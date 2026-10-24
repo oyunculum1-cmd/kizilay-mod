@@ -1,0 +1,442 @@
+{
+  "boss.descend": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:boss/descend",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.boss.descend"
+  },
+  "boss.land": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:boss/land",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.boss.land"
+  },
+  "boss.shockwave": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:boss/shockwave",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.boss.shockwave"
+  },
+  "hammer.charge": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/charge",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.charge"
+  },
+  "hammer.grab": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/grab",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.grab"
+  },
+  "hammer.yank": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/yank",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.yank"
+  },
+  "crystal.absorb": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:altar/crystal_absorb",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.crystal.absorb"
+  },
+  "flame.out": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:altar/flame_out",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.flame.out"
+  },
+  "hammer.swing": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/swing",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.swing"
+  },
+  "hammer.dock": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/dock",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.dock"
+  },
+  "boss.roar": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:boss/roar",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.boss.roar"
+  },
+  "scythe.slam": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:scythe/slam",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.scythe.slam"
+  },
+  "scythe.point": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:scythe/point",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.scythe.point"
+  },
+  "altar.hum": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:altar/hum",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.kizilay.altar.hum"
+  },
+  "boss.breath": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:boss/breath",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.kizilay.boss.breath"
+  },
+  "boss.step": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:boss/step",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.boss.step"
+  },
+  "attack.windup": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/windup",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.windup"
+  },
+  "attack.slash": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/slash",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.slash"
+  },
+  "attack.slash2": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/slash2",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.slash2"
+  },
+  "attack.crouch": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/crouch",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.crouch"
+  },
+  "attack.leap": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/leap",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.leap"
+  },
+  "attack.leap_charge": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/leap_charge",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.leap_charge"
+  },
+  "attack.slam": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/slam",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.slam"
+  },
+  "attack.spikes": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/spikes",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.spikes"
+  },
+  "attack.whirl": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/whirl",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.whirl"
+  },
+  "attack.whirl_end": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:attack/whirl_end",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.attack.whirl_end"
+  },
+  "phase.groan": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:phase/groan",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.phase.groan"
+  },
+  "phase.collapse": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:phase/collapse",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.phase.collapse"
+  },
+  "scythe.drop": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:scythe/drop",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.scythe.drop"
+  },
+  "ring.detach": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:phase/ring_detach",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.ring.detach"
+  },
+  "ring.rise": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:phase/ring_rise",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.ring.rise"
+  },
+  "phase.transform": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:phase/transform",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.phase.transform"
+  },
+  "ring.shatter": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:phase/ring_shatter",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.ring.shatter"
+  },
+  "phase.roar": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:phase/roar",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.phase.roar"
+  },
+  "altar.sink": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:altar/sink",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.altar.sink"
+  },
+  "hammer.pull": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/pull",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.pull"
+  },
+  "hammer.ready": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/ready",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.ready"
+  },
+  "hammer.windup": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/windup",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.windup"
+  },
+  "hammer.swing_h": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/swing_heavy",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.swing_h"
+  },
+  "hammer.smash": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/smash",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.smash"
+  },
+  "quake.ring": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/quake_ring",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.quake.ring"
+  },
+  "hammer.drop": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "kizilay:hammer/drop",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.hammer.drop"
+  },
+  "death.fall": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:death/fall",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.death.fall"
+  },
+  "death.dissolve": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "kizilay:death/dissolve",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.kizilay.death.dissolve"
+  }
+}

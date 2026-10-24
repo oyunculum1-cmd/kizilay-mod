@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GCG", "OKO", "OOO"],
+  "key": {
+    "G": { "item": "minecraft:gold_block" },
+    "C": { "item": "minecraft:crying_obsidian" },
+    "O": { "item": "minecraft:obsidian" },
+    "K": { "item": "kizilay:moon_shard" }
+  },
+  "result": { "item": "kizilay:moon_altar" }
+}

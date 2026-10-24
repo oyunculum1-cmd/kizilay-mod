@@ -1,0 +1,17 @@
+{
+  "textures": { "all": "kizilay:block/moon_altar", "particle": "kizilay:block/moon_altar" },
+  "elements": [
+    { "from": [0, 0, 0], "to": [16, 4, 16], "faces": {
+      "north": {"uv": [0,12,16,16], "texture": "#all"}, "south": {"uv": [0,12,16,16], "texture": "#all"},
+      "east": {"uv": [0,12,16,16], "texture": "#all"}, "west": {"uv": [0,12,16,16], "texture": "#all"},
+      "up": {"uv": [0,0,16,16], "texture": "#all"}, "down": {"uv": [0,0,16,16], "texture": "#all"} } },
+    { "from": [3, 4, 3], "to": [13, 12, 13], "faces": {
+      "north": {"uv": [3,3,13,11], "texture": "#all"}, "south": {"uv": [3,3,13,11], "texture": "#all"},
+      "east": {"uv": [3,3,13,11], "texture": "#all"}, "west": {"uv": [3,3,13,11], "texture": "#all"},
+      "up": {"uv": [0,0,16,16], "texture": "#all"} } },
+    { "from": [1, 12, 1], "to": [15, 14, 15], "faces": {
+      "north": {"uv": [1,2,15,4], "texture": "#all"}, "south": {"uv": [1,2,15,4], "texture": "#all"},
+      "east": {"uv": [1,2,15,4], "texture": "#all"}, "west": {"uv": [1,2,15,4], "texture": "#all"},
+      "up": {"uv": [0,0,16,16], "texture": "#all"}, "down": {"uv": [0,0,16,16], "texture": "#all"} } }
+  ]
+}
