@@ -3,7 +3,7 @@
 Mod id: `kizilay` · Boss: **Kızıl Ay Kralı** · Yapı: **Kızıl Ay Göksarayı**
 
 ## Jar nasıl alınır (3 adım)
-1. **Modeli çıkar (bir kerelik).** Blockbench'te `blockbench/kizil_ay_krali_sahne.bbmodel` dosyasını aç.
+1. **Modeli çıkar (hazır, gerekirse yenile).** `python3 tools/bbmodel_to_geckolib.py blockbench/kizil_ay_krali_sahne.bbmodel src/main/resources/assets/kizilay` komutu geo ve animasyon dosyalarını üretir (zaten eklendi). Elle yapmak istersen: Blockbench'te `blockbench/kizil_ay_krali_sahne.bbmodel` dosyasını aç.
    `File > Convert Project` ile Bedrock/GeckoLib biçimine çevir, sonra `File > Export > Export Bedrock Geometry` ve
    `Export Animations` yap. Çıkan dosyaları şu adlarla koy:
    - `src/main/resources/assets/kizilay/geo/kizil_ay_krali.geo.json`
